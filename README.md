@@ -165,6 +165,4 @@ The database includes sample data for:
 - Referential integrity with foreign key constraints
 - Custom ENUM types for data validation
   
-## License
 
-This project is for educational purposes.
