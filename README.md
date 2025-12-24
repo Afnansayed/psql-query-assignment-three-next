@@ -164,5 +164,13 @@ The database includes sample data for:
 - Booking system with multiple status states
 - Referential integrity with foreign key constraints
 - Custom ENUM types for data validation
+
+## Author
+
+Created as a demonstration of SQL database.
+
+## License
+
+This project is for educational purposes. 
   
 
